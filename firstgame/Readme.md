@@ -5,10 +5,10 @@
 
 
 ## What the game is about?
-no clue
+Dodge the creeps A beginner level roject to understand godot.
 
 ## Specific issues in Code or Scenes
 none
 
 ## Collaborator Notes
-none
+* This is our first godot project.
