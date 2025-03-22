@@ -33,7 +33,6 @@ grow_vertical = 2
 color = Color(0.133141, 0.538747, 0.498608, 1)
 
 [node name="Player" parent="." instance=ExtResource("3_lquwl")]
-visible = false
 
 [node name="MobTimer" type="Timer" parent="."]
 wait_time = 0.5
